@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"music","order":4,"path":"objects/music/music.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Sound1","order":11,"path":"sounds/Sound1/Sound1.yy",},
+    {"name":"sPlayerRun","order":3,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
+    {"name":"sCoin","order":1,"path":"sprites/sCoin/sCoin.yy",},
+    {"name":"sBackground","order":4,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"OSpinner","order":2,"path":"objects/OSpinner/OSpinner.yy",},
+    {"name":"OCoin","order":1,"path":"objects/OCoin/OCoin.yy",},
+    {"name":"sSpinner","order":2,"path":"sprites/sSpinner/sSpinner.yy",},
+    {"name":"OSpinnerMov","order":3,"path":"objects/OSpinnerMov/OSpinnerMov.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+  ],
+}
